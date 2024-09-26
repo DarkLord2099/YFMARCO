@@ -15,7 +15,10 @@ A passionate Custom Rom Enthusiast from Egypt
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> </p>
+p[<img src="https://img.icons8.com/color/48/000000/git.png" width="20" height="20">](https://git-scm.com)
+[<img src="https://img.icons8.com/ios-glyphs/30/000000/github.png" width="20" height="20">](https://github.com)
+[<img src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png" width="20" height="20">](https://code.visualstudio.com)
+ align="left"> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> </p>
 
 <h3 align="left">Working environment:</h3>
 
