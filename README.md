@@ -1,7 +1,8 @@
 <!---
 ![header](https://capsule-render.vercel.app/api?type=wave&color=gradient&height=280&section=header&text=Spider%20Team%20🕷🕸&fontSize=90)
 --->
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=280&section=header&text=Spider%20Team%20🕷🕸&fontSize=90)
+![header](https://capsule-render.vercel.app/api?type=venom&height=300&color=gradient&text=Spider%20Team%20&fontColor=c0c0cp&fontAlign=50&fontAlignY=50&animation=fadeIn&section=header&strokeWidth=0.5&stroke=c0c0c0
+
 # Welcome to my profile 😎!
 I'm YFMARCO
 
