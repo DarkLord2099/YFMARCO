@@ -2,8 +2,6 @@
 ![header](https://capsule-render.vercel.app/api?type=wave&color=gradient&height=280&section=header&text=Spider%20Team%20🕷🕸&fontSize=90)
 --->
 
-  <img src="https://media.tenor.com/pT_eK7L76OEAAAAC/coding-computer-coding.gif" width="400"/>
-
 ![header](https://capsule-render.vercel.app/api?type=venom&height=300&color=gradient&text=YFMARCO%20&fontColor=7f00ff&animation=twinkling)
 
 # Welcome to my profile 😎!
