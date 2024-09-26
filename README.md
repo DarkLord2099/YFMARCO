@@ -24,6 +24,9 @@ A passionate Custom Rom Enthusiast from Egypt
 
 [![Windows 10](https://img.shields.io/badge/Windows%2011-00adef?style=flat-square&logo=windows&logoColor=ffffff)](https://www.microsoft.com/en-in/software-download/windows10)
 
+![Manjaro](https://img.shields.io/badge/Manjaro-34be5b?style=for-the-badge&logo=manjaro&logoColor=white)
+ 
+
 ## 🐍 A Snake Eating My Contributions Graph
 
 <p align="center">
