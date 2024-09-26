@@ -19,12 +19,11 @@ A passionate Custom Rom Enthusiast from Egypt
 
 <h3 align="left">Working environment:</h3>
 
-![Manjaro](https://img.shields.io/badge/Manjaro-34be5b?style=for-the-badge&logo=manjaro&logoColor=white)](https://manjaro.org)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![EndeavourOS](https://img.shields.io/badge/EndeavourOS-5D3F8E?style=for-the-badge&logo=endeavourOS&logoColor=white)
-![Arch Linux](https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white)
-![Windows 10](https://img.shields.io/badge/Windows_10-0078D6?style=for-the-badge&logo=windows&logoColor=white)
-
+[![Arch Linux](https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white)](https://archlinux.org)
+[![Manjaro](https://img.shields.io/badge/Manjaro-35BF5C?style=for-the-badge&logo=manjaro&logoColor=white)](https://manjaro.org)
+[![EndeavourOS](https://img.shields.io/badge/EndeavourOS-5D3F8E?style=for-the-badge&logo=endeavourOS&logoColor=white)](https://endeavouros.com)
+[![Windows 10](https://img.shields.io/badge/Windows_10-0078D6?style=for-the-badge&logo=windows&logoColor=white)](https://www.microsoft.com/windows)
+[![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)](https://www.kernel.org)
 
 ## 🐍 A Snake Eating My Contributions Graph
 
