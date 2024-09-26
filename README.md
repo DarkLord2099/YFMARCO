@@ -22,10 +22,12 @@ A passionate Custom Rom Enthusiast from Egypt
 
 <h3 align="left">Working environment:</h3>
 
-[![Windows 10](https://img.shields.io/badge/Windows%2011-00adef?style=flat-square&logo=windows&logoColor=ffffff)](https://www.microsoft.com/en-in/software-download/windows10)
 ![Manjaro](https://img.shields.io/badge/Manjaro-34be5b?style=for-the-badge&logo=manjaro&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![EndeavourOS](https://img.shields.io/badge/EndeavourOS-5D3F8E?style=for-the-badge&logo=endeavourOS&logoColor=white)
+![Arch Linux](https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white)
+![Windows 10](https://img.shields.io/badge/Windows_10-0078D6?style=for-the-badge&logo=windows&logoColor=white)
+
 
 ## 🐍 A Snake Eating My Contributions Graph
 
