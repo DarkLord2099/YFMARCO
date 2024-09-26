@@ -16,9 +16,10 @@ A passionate Custom Rom Enthusiast from Egypt
 
 <h3 align="left">Languages and Tools:</h3>
 
-[![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com)
-[![VSCode](https://img.shields.io/badge/VS%20Code-0078D4?style=for-the-badge&logo=visual-studio-code&logoColor=white)](https://code.visualstudio.com)
+[<img src="https://img.icons8.com/color/48/000000/git.png" alt="Git" width="40" height="40"/>](https://git-scm.com)
+[<img src="https://img.icons8.com/ios-glyphs/48/000000/github.png" alt="GitHub" width="40" height="40"/>](https://github.com)
+[<img src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png" alt="VSCode" width="40" height="40"/>](https://code.visualstudio.com)
+
 
 <h3 align="left">Working environment:</h3>
 
