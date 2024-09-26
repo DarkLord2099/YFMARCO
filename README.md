@@ -19,7 +19,7 @@ A passionate Custom Rom Enthusiast from Egypt
 
 <h3 align="left">Working environment:</h3>
 
-![Manjaro](https://img.shields.io/badge/Manjaro-34be5b?style=for-the-badge&logo=manjaro&logoColor=white)
+![Manjaro](https://img.shields.io/badge/Manjaro-34be5b?style=for-the-badge&logo=manjaro&logoColor=white)](https://manjaro.org)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![EndeavourOS](https://img.shields.io/badge/EndeavourOS-5D3F8E?style=for-the-badge&logo=endeavourOS&logoColor=white)
 ![Arch Linux](https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white)
