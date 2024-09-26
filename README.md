@@ -25,6 +25,7 @@ A passionate Custom Rom Enthusiast from Egypt
 [![Windows 10](https://img.shields.io/badge/Windows_10-0078D6?style=for-the-badge&logo=windows&logoColor=white)](https://www.microsoft.com/windows)
 [![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)](https://www.kernel.org)
 
+
 ## 🐍 A Snake Eating My Contributions Graph
 
 <p align="center">
